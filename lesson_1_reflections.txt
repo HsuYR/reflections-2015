@@ -1,0 +1,19 @@
+Using diff makes it easier to find the place where typo may happen.
+
+Sometimes the idea may not be appropriate for current project but
+might be useful for future use.
+
+pros: I can make meaningful commits.
+cons: It is hard to determine when to commit
+      and sometimes prone to manual mistakes.
+
+Git is designed for programmers. But Google Docs and isn't
+While program files may require multiple files at a time,
+documents are usually independent.
+
+I can use them to find out changes and retrieve older versions.
+
+It makes me feel safe because I can always go back to previous versions.
+
+I would like to try Git mainly for my web page assignment.
+But it would be useful if I can use Git for co-note version control.
