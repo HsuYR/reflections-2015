@@ -1,0 +1,2 @@
+A remote repository can be used as a backup of the local one.
+It is also easier to share and collaborate with others on a remote repo.
