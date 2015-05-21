@@ -1,4 +1,22 @@
 A .git folder is created to keep track of file changes from commits.
 
 In staging area, you can add files which is changed.
-Working directory simply stores all files no matter changed or not.
+Working directory and repository simply stores all files no matter changed or not.
+Both working directory and repository act as a place to store files.
+
+It sometimes requires changing multiple files within one logical change.
+So I can use the staging area to commit multiple files at the same time.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+It would be helpful if I want to try out some experimental features
+while keeping the working version.
+I can also distinguish the features of different versions through branch names.
+
+The diagram helps me better understand the branching point of commits, or logical changes.
+
+Merging the diagram can introduce new features into the working version.
+The diagram helps visualize the concept of merging branches.
+
+Automatic merging makes developing more efficient
+since manually checking the changes takes a lot of effort.
